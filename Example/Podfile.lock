@@ -1,0 +1,16 @@
+PODS:
+  - ANSIEscapologist (0.1.0)
+
+DEPENDENCIES:
+  - ANSIEscapologist (from `../`)
+
+EXTERNAL SOURCES:
+  ANSIEscapologist:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ANSIEscapologist: d76e84c3204aec0855121e2a64336e302e6ba0f9
+
+PODFILE CHECKSUM: 5cdf12a83e58d7a6f6c9a2fa0aca82e452b9f14c
+
+COCOAPODS: 1.5.3

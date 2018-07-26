@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ANSIEscapologist_Example' do
+  pod 'ANSIEscapologist', :path => '../'
+
+  target 'ANSIEscapologist_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

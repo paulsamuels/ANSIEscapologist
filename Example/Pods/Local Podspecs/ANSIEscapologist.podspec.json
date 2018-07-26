@@ -1,0 +1,31 @@
+{
+  "name": "ANSIEscapologist",
+  "version": "0.1.0",
+  "summary": "A library for converting a string with ANSI codes into an NSAttributedString",
+  "description": "A library for converting a string with ANSI codes into an NSAttributedString. Handy\nfor situations where you want to show command line tool output that is styled with ANSI\ncontrol codes.",
+  "swift_version": "4.0",
+  "homepage": "https://github.com/paulsamuels/ANSIEscapologist",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "paulsamuels": "paulio1987@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/paulsamuels/ANSIEscapologist.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/paulio87",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ANSIEscapologist/Classes/**/*",
+  "testspecs": [
+    {
+      "name": "Tests",
+      "test_type": "unit",
+      "source_files": "ANSIEscapologist/Tests/**/*"
+    }
+  ]
+}

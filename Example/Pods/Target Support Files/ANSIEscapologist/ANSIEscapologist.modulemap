@@ -1,0 +1,6 @@
+framework module ANSIEscapologist {
+  umbrella header "ANSIEscapologist-umbrella.h"
+
+  export *
+  module * { export * }
+}

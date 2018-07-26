@@ -1,0 +1,6 @@
+framework module Pods_ANSIEscapologist_Tests {
+  umbrella header "Pods-ANSIEscapologist_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
